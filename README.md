@@ -2,4 +2,6 @@
 rsschool-cv
 Имя :Евгенй
 Фамилия: Макурн
-образованиеe-mail: makurin.j@gmail.com
+образованиеe-mail: makurin.j@gmail.\
+
+
